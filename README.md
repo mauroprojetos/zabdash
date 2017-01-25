@@ -8,4 +8,7 @@
 
 4 - Access URL http://<your zabbix server>/zabbix/zabdash;
 
+Adicionado triggers na vizualização do painel de hosts
+
+PrintScreen
 <img src="https://raw.githubusercontent.com/mauroprojetos/zabdash/master/Capturar.PNG" alt="Capturar.PNG">
