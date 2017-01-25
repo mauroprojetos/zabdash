@@ -8,4 +8,4 @@
 
 4 - Access URL http://<your zabbix server>/zabbix/zabdash;
 
-<img src="/mauroprojetos/zabdash/blob/master/Capturar.PNG?raw=true" alt="Capturar.PNG">
+<img src="https://github.com/mauroprojetos/mauroprojetos/zabdash/blob/master/Capturar.PNG?raw=true" alt="Capturar.PNG">
