@@ -48,19 +48,20 @@ else {
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/font-awesome.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/styles.css" />
+<link rel="stylesheet" type="text/css" href="css/theme-alt.css" />
 </head>
 
-<body style="background: #3c3c3c !important;">
+<body style="background: #1f1d1d !important;">
 
-<div class="row col-md-12 col-sm-12" style="margin-top:0px; margin-bottom: 20px; background:#3c3c3c; float:none; margin-right:auto; margin-left:auto; text-align:center;">
+<div class="row col-md-12 col-sm-12" style="margin-top:0px; margin-bottom: 0px; background:#1f1d1d; float:none; margin-right:auto; margin-left:auto; text-align:center;">
 
-	<div class="col-md-12 col-sm-12" style="margin-top:12px;margin-bottom:1px;">
+	<!--<div class="col-md-12 col-sm-12" style="margin-top:12px;margin-bottom:1px;">
 		<div class="col-md-2"><a href="<?php echo $zabURL; ?>" target="_blank"><img src="img/zabbix.png" alt="Zabbix" style="height:28px;"></img></a></div> 
 		<div class="col-md-8 col-sm-8">
 			<h3 style="color:#fff !important; margin-top:-2 px;"><?php //echo "  ".$groupName; ?></h3>
 		</div>	
 	   <div class="col-md-2" id="date" style="color:#fff; "><?php echo date("d F Y", time())." - "; echo date("H:i:s", time()); ?></div>	    
-	</div>
+	</div>-->
 
 <?php 
 
