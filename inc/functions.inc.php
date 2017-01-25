@@ -344,6 +344,10 @@ function color_bar($value) {
 	return $arrBar;	
 														
 }
+function limitarTexto($texto, $limite){
+    $texto = substr($texto, 0, strrpos(substr($texto, 0, $limite), ' ')) . '...';
+    return $texto;
+}
 
 
 ?>
