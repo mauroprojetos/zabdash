@@ -7,3 +7,5 @@
 3 - Set Automatic Hosts inventory in Zabbix;
 
 4 - Access URL http://<your zabbix server>/zabbix/zabdash;
+
+<img src="/mauroprojetos/zabdash/blob/master/Capturar.PNG?raw=true" alt="Capturar.PNG">
